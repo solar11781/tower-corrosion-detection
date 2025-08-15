@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/Artificial Intelligence for Engineering/Final_project/data/processed_tower/train/images
+val: /content/drive/MyDrive/Artificial Intelligence for Engineering/Final_project/data/processed_tower/valid/images
+test: /content/drive/MyDrive/Artificial Intelligence for Engineering/Final_project/data/processed_tower/valid/images
+
+nc: 1
+names: ["corrosion"]

@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/Artificial Intelligence for Engineering/Final_project/data/raw_tower/train/images
+val: /content/drive/MyDrive/Artificial Intelligence for Engineering/Final_project/data/raw_tower/valid/images
+test: /content/drive/MyDrive/Artificial Intelligence for Engineering/Final_project/data/raw_tower/test/images
+
+nc: 1
+names: ["tower"]
